@@ -28,7 +28,7 @@ p{
 	line-height: 1;
 	margin-bottom: 30px;
 	margin-top: 10px;
-	/*white-space: pre-line;*/
+	white-space: pre-line;
 }	
 
 @media (max-width: 600px){
@@ -37,9 +37,11 @@ p{
 		padding:20%;
 		padding-bottom: 0px; 
 		margin-bottom: 0;
+		background-color: pink;]
 	}
 
 	p{
+		background-color: blue;
 		font-size: 0.75rem;
 		line-height: 1.4;
 		padding:0 5%;
