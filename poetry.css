@@ -24,7 +24,7 @@ h1{
 
 p{
 	font-size: 1.2rem;
-	text-align: center;
+	text-align: flex;
 	line-height: 1;
 	margin-bottom: 30px;
 	margin-top: 10px;
@@ -39,7 +39,7 @@ p{
 }
 
 	p{
-		font-size: 0.9rem;
+		font-size: 0.8rem;
 		line-height: 1.4;
 		padding:0 5%;
 	}
